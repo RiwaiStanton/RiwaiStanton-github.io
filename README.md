@@ -6,4 +6,4 @@ An aboutMe page containing:
 - [X] Photography
 - [X] Work History
 - [X] Images
-- [X] Resumes
+- [X] Resume
