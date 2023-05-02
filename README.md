@@ -1,11 +1,9 @@
 # 🌐 Riwai Stanton
 
-💕 The project is for beginners. For this reason I took care to keep it simple, you can use and share as you wish.
+An aboutMe page with
 
-📦 Contents
-
-- [X] Footer
-- [X] Social Media Icons
+- [X] Personal Designs
+- [X] Photography
 - [X] Work History
 - [X] Images
-- [X] Fonts
+- [X] Resumes
