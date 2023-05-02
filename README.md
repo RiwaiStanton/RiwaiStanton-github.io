@@ -1,6 +1,6 @@
 # 🌐 Riwai Stanton
 
-An aboutMe page with
+An aboutMe page containing:
 
 - [X] Personal Designs
 - [X] Photography
