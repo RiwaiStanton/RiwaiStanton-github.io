@@ -2,8 +2,7 @@
 
 An aboutMe page containing:
 
-- [X] Personal Designs
 - [X] Photography
-- [X] Work History
+- [X] Travel
 - [X] Images
 - [X] Resume
